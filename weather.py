@@ -1,7 +1,7 @@
 import requests
 print("Welcome to Sabah Codes")
 def get_weather(location):
-    api_key = "cb6538f8a8fc4df1be492634250201"
+    api_key = "[ Enter api ]"
     base_url = "http://api.weatherapi.com/v1/current.json"
     params = {
         "key": api_key,
